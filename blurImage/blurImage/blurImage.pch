@@ -1,0 +1,21 @@
+//
+//  blurImage.pch
+//  blurImage
+//
+//  Created by 李根 on 16/6/4.
+//  Copyright © 2016年 ligen. All rights reserved.
+//
+
+#ifndef blurImage_pch
+#define blurImage_pch
+#import <UIKit/UIKit.h>
+
+#import <GPUImage/GPUImage.h>
+
+#import "UIView+Util.h"
+
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* blurImage_pch */
